@@ -2,8 +2,7 @@
 //  ViewController.m
 //  Prueba Git
 //
-//  Created by RicardoGonet on 16/11/16.
-//  Copyright © 2016 Ric. All rights reserved.Hola mundo master
+//  Created by RicardoGonet on 16/11/16.rama 2
 //
 
 #import "ViewController.h"
@@ -16,6 +15,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSString * rtstr=@"Rama2";
     // Do any additional setup after loading the view, typically from a nib.
 }
 
