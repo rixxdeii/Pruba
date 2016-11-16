@@ -15,6 +15,7 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
+     NSString * rtstr=@"Rama1";
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
