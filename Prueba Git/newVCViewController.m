@@ -9,6 +9,7 @@
 #import "newVCViewController.h"
 
 @interface newVCViewController ()
+@property (weak, nonatomic) IBOutlet UIView *view_1;
 
 @end
 
