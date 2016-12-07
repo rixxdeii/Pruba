@@ -9,6 +9,7 @@
 #import "newVCViewController.h"
 
 @interface newVCViewController ()
+@property (weak, nonatomic) IBOutlet UIView *view_1;
 
 @end
 
@@ -17,6 +18,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    
+   // Pasar esta info a  rama 2
 }
 
 - (void)didReceiveMemoryWarning {
