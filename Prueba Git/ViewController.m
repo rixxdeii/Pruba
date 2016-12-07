@@ -17,6 +17,7 @@
      NSString * rtstr=@"Rama1";
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    // este texto se tiene que conservar para rama 2 y no aparecer con rama 1
 }
 
 - (void)didReceiveMemoryWarning {
