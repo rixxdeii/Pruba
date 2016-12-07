@@ -13,6 +13,7 @@
 		8A1791AF1DDD104B001C4CCC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A1791AD1DDD104B001C4CCC /* Main.storyboard */; };
 		8A1791B11DDD104B001C4CCC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A1791B01DDD104B001C4CCC /* Assets.xcassets */; };
 		8A1791B41DDD104B001C4CCC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A1791B21DDD104B001C4CCC /* LaunchScreen.storyboard */; };
+		8A19740C1DF8C683005E8AF2 /* newVCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A19740B1DF8C683005E8AF2 /* newVCViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		8A1791B01DDD104B001C4CCC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8A1791B31DDD104B001C4CCC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8A1791B51DDD104B001C4CCC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A19740A1DF8C683005E8AF2 /* newVCViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = newVCViewController.h; sourceTree = "<group>"; };
+		8A19740B1DF8C683005E8AF2 /* newVCViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = newVCViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,8 @@
 				8A1791AA1DDD104B001C4CCC /* ViewController.h */,
 				8A1791AB1DDD104B001C4CCC /* ViewController.m */,
 				8A1791AD1DDD104B001C4CCC /* Main.storyboard */,
+				8A19740A1DF8C683005E8AF2 /* newVCViewController.h */,
+				8A19740B1DF8C683005E8AF2 /* newVCViewController.m */,
 				8A1791B01DDD104B001C4CCC /* Assets.xcassets */,
 				8A1791B21DDD104B001C4CCC /* LaunchScreen.storyboard */,
 				8A1791B51DDD104B001C4CCC /* Info.plist */,
@@ -151,6 +156,7 @@
 			files = (
 				8A1791AC1DDD104B001C4CCC /* ViewController.m in Sources */,
 				8A1791A91DDD104B001C4CCC /* AppDelegate.m in Sources */,
+				8A19740C1DF8C683005E8AF2 /* newVCViewController.m in Sources */,
 				8A1791A61DDD104B001C4CCC /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +308,7 @@
 				8A1791BA1DDD104B001C4CCC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
