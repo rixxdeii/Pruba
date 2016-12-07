@@ -20,6 +20,7 @@
     // Do any additional setup after loading the view.
     
     //otro mensaje que debe concervar solo la rama 2 antes de hacer merge.
+   // Pasar esta info a  rama 2
 }
 
 - (void)didReceiveMemoryWarning {
