@@ -25,5 +25,7 @@
 }
 - (IBAction)some:(id)sender {
 }
+- (IBAction)bnt:(id)sender {
+}
 
 @end
